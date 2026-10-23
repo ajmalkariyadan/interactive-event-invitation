@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "sibili-jashidha-wedding"
+  },
+  "targets": {
+    "sibili-jashidha-wedding": {
+      "hosting": {
+        "nikah": [
+          "sibili-jashida-nikah"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
