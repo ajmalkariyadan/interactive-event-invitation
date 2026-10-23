@@ -68,3 +68,21 @@ This project explores interactive frontend development, responsive web design, a
 ---
 
 **Built with HTML, CSS, JavaScript, Google Apps Script, Google Sheets, and Firebase Hosting.**
+## 📸 Screenshots
+
+### Homepage
+
+![Nikah Invitation Homepage](screenshots/homepage.png)
+
+### Event Details
+
+![Wedding Countdown and Event Details](screenshots/event-details.png)
+
+### RSVP
+
+![RSVP Form](screenshots/rsvp.png)
+
+### Guest Wishes
+
+![Guest Wishes](screenshots/guest-wishes.png)
+
